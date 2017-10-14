@@ -1,32 +1,5 @@
-html {
-  background-color:  black;
+.title {
+  background-image: url("./images/the-flatiron-building.png");
+  background-position: center;
   text-align: center;
-}
-
-
-#title1 {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 50 px;
-  color: white;
-
-}
-
-#bold {
-  font-family: Verdana;
-  font-size: 16 px;
-  color: Aquamarine;
-}
-
-#title2 {
-  font-family: Verdana;
-  font-weight:300;
-  font-size: 42 px;
-  color: white;
-}
-
-#description {
-  font-family: Verdana;
-  font-size: 22 px;
-  color: Gray;
 }
